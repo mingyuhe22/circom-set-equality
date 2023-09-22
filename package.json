@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "npx mocha ./test/*.test.js"
+  },
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

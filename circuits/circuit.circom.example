@@ -1,0 +1,12 @@
+pragma circom 2.1.5;
+
+include "src/hasher.circom";
+include "set_equality.circom";
+include "set_equality_fs.circom";
+include "permuatation.circom";
+
+// // must to import a hasher !!
+// component main = IsEqualSetFS(1000);
+
+// component main = IsEqualSet(1000);
+// component main = CheckPermutation(10, [1, 3, 4, 4, 4, 2, 2, 1, 2, 2]);

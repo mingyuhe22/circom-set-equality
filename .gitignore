@@ -1,0 +1,5 @@
+circuits/circuit.circom
+*/*.r1cs
+build/
+node_modules/
+*.out
